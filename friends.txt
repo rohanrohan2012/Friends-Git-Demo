@@ -9,3 +9,10 @@ Joey
 Gunther
 Janice
 Emily
+
+
+Barney
+Robin
+Ted
+Marshall
+Lily
